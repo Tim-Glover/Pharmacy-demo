@@ -1,0 +1,82 @@
+
+/*=== color cheat sheet
+#333333
+#656565
+#e94f64
+#e57254
+
+
+*====/
+h1{
+
+    color: white;
+}
+/*==wanting to expirement with diffrent backgrounds besides white==*/
+body{
+    background-color: #333333;
+    font-family: "Crimson Text", "sans-serif";
+}
+/*== styling top bar==*/
+.top-bar{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+
+
+    background: linear-gradient(to right,#e94f64 , #e57254
+    );
+    flex: auto;
+    height: 2.8rem;
+    padding: .5px 0;}
+/* ==styling the text for phone link==*/
+    .top-bar a{
+        color: #333333;
+
+
+        font-size: 1rem;
+        padding-left: 10px;
+    }
+
+    .collumn-text{
+        color: #d6dade;
+        font-size: 1.5em;
+
+    }
+
+    /**styling list **/
+
+#tims-list{
+
+    height: 84px;
+}
+
+
+#horizontal-list{
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+
+}
+#horizontal-list li{
+
+    margin-right: 5px;
+    height: 40px;
+    padding-right: 10px;
+    float: left;
+    display: inline;}
+
+#horizontal-list li a{
+position: relative;
+}
+
+/* styling the images in collumn 2 */
+.pills{
+    float: right;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%
+}
+
+.hover{
+    transform:scale 2
+}
