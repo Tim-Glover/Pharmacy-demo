@@ -12,9 +12,12 @@ h1{
     color: white;
 }
 /*==wanting to expirement with diffrent backgrounds besides white==*/
+
+
+
 body{
     background-color: #333333;
-    font-family: "Crimson Text", "sans-serif";
+    font-family: 'MuseoModerno', cursive;
 }
 /*== styling top bar==*/
 .top-bar{
@@ -40,6 +43,7 @@ body{
     .collumn-text{
         color: #d6dade;
         font-size: 1.5em;
+        box-sizing: border-box;
 
     }
 
@@ -78,5 +82,9 @@ position: relative;
 }
 
 .hover{
-    transform:scale 2
+    transform: scale(2);
+}
+
+.column{
+    box-sizing: border-box;
 }
