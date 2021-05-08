@@ -24,10 +24,28 @@ h1{
       display: none;
 
     }
-    .pills{ display: none;
+    .image-with-text{ display: none;
   }
+  .number{
+    break-before: left;
+}
 
 
+}
+/** styling my column headers */
+
+#Col-1-title{
+    color:#e94f64;
+    font-weight: 300;
+}
+#col-2-title{
+    color: #e57254;
+    font-weight: 300;
+
+}
+#Col-3-title{
+    color: #46bcde;
+    font-weight: 300;
 }
 
 body{
@@ -66,10 +84,7 @@ body{
 
     /**styling list **/
 
-#tims-list{
 
-    height: 84px;
-}
 
 
 #horizontal-list{
@@ -91,14 +106,19 @@ position: relative;
 }
 
 /* styling the images in collumn 2 */
-.pills{
-    float: right;
-    height: 200px;
-    width: 200px;
-    border-radius: 50%
+.worker{
+    float: ;
+    height: 300px;
+    width: 400px;
+    padding-bottom: 20px;
 }
 
 
 .column{
     box-sizing: border-box;
+}
+
+.image-with-text{
+    text-align: center;
+    color: #d6dade;
 }
