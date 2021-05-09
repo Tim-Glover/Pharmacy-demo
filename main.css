@@ -33,6 +33,9 @@ h1{
 
 }
 /** styling my column headers */
+.titles{
+    text-align: center;
+}
 
 #Col-1-title{
     color:#e94f64;
@@ -47,6 +50,12 @@ h1{
     color: #46bcde;
     font-weight: 300;
 }
+#col-4{
+color: #52d273;
+
+}
+
+
 
 body{
     background-color: #333333;
@@ -121,4 +130,15 @@ position: relative;
 .image-with-text{
     text-align: center;
     color: #d6dade;
+}
+#slide-show{
+background: linear-gradient(to right, #46bcde, #52d273);
+
+    text-align: center;
+}
+
+.slideshow{
+min-height: 200px;
+max-width: 200px;
+
 }

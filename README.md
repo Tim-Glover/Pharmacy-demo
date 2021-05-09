@@ -4,5 +4,5 @@ My job is facing a mas exodus of all our techs leaving for pharmacy school so I 
 ### My Goals
 
 1. Make a sight that looks good
-2. Learn how to place items better
+2. Demonstrate my understanding of css, html, and design.
 3. Entertain and get my viewers attention
