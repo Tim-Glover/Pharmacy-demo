@@ -55,7 +55,11 @@ color: #52d273;
 
 }
 
-
+/** styling links */
+.links{
+    font-size: 1em;
+    color: #46bcde;
+}
 
 body{
     background-color: #333333;

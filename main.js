@@ -3,7 +3,7 @@ var i = 0;// The start of my array of images for my slide show
 var images = [];
 var time = 3000;
 
-//images[0] = 'images/book.jpg';//
+
 images[0] = "images/study.jpg";
 images[1] = 'images/math.jpg';
 images[2] = "images/med.jpg";
