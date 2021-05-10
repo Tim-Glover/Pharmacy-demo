@@ -29,9 +29,16 @@ h1{
   .number{
     break-before: left;
 }
-
+.collumn-text{
+    padding-left: 40px;
+}
+.numbers{
+    break-before: auto;
+}
 
 }
+
+
 /** styling my column headers */
 .titles{
     text-align: center;
@@ -145,4 +152,14 @@ background: linear-gradient(to right, #46bcde, #52d273);
 min-height: 200px;
 max-width: 200px;
 
+}
+#numbers{
+    color:#46bcde ;
+    float: left;
+    font-weight: 300;
+}
+
+.ptcb{
+    padding-left: 20%;
+    padding-bottom: 20px;
 }
